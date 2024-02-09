@@ -6,3 +6,10 @@
   list-style-type: none;
 }
 
+label, button {
+  display: flex;
+}
+
+input {
+  margin-bottom: 2rem;
+}

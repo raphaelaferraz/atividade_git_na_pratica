@@ -28,3 +28,9 @@ A aplicação desenvolvida neste projeto é um formulário básico de cadastro d
 - **Merge pull request #1 from raphaelaferraz/develop**: Este commit indica que ocorreu um pull request da branch develop
 
 - **docs: adição do arquivo readme.md**: Este commit indica a adição deste arquivo, readme.md, no projeto
+
+- **Merge branch 'develop' of https://github.com/raphaelaferraz/atividade_git_na_pratica into develop**: Resolução do conflito entre a branch main e develop, ao tentar adicionar o arquivo readme.d
+
+- **Merge pull request #2 from raphaelaferraz/develop**: Este commit indica que ocorreu um pull request da branch develop
+
+- **docs: atualização do readme.md**: Este commit indica que ocorreu uma atualização do arquivo readme
